@@ -1,0 +1,7 @@
+
+b	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(ïŠîû8‘…Øñ›0
+s
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôİÕıÿÿÿÿ8±…Øñ›0
+t	java:S116"SRename this field "ClassRef" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅĞíõıÿÿÿÿ8³…Øñ›0
+v
+java:S1845"TRename field "ClassRef" to prevent any misunderstanding/clash with field "classRef".(ÅĞíõıÿÿÿÿ8¸…Øñ›0

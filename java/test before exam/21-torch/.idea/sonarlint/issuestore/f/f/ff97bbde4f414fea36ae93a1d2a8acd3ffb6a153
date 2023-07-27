@@ -1,0 +1,6 @@
+
+0
+java:S1220""Move this file to a named package.
+t	java:S116"ZRename this field "ConsumptionRate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÌÝðùÿÿÿÿ
+n	java:S116"YRename this field "ProductionRate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝßëÚ
+V	java:S125,"<This block of commented-out lines of code should be removed.(ä©®±ÿÿÿÿÿ

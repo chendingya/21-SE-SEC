@@ -1,0 +1,14 @@
+
+P	java:S125<"<This block of commented-out lines of code should be removed.(¿Â
+M
+java:S1135;"2Complete the task associated to this TODO comment.(ğı®šşÿÿÿÿ
+c	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ãû¬
+c	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÆÃÅ
+h	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£’üÿÿÿÿ
+c	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëòøÒ
+h	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£úœúÿÿÿÿ
+c	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ƒ¶
+D
+java:S1068!".Remove this unused "interfaces" private field.(Ş…æì
+D
+java:S1068$".Remove this unused "attributes" private field.(ˆ¾µ

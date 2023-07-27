@@ -1,0 +1,17 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦âë²üÿÿÿÿ
+O
+java:S1854"9Remove this useless assignment to local variable "pairs".(ôñ¹ð
+B
+java:S3599",Use another way to initialize this instance.(ôñ¹ð
+o
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ôñ¹ð
+@
+java:S1481"*Remove this unused "pairs" local variable.(ôñ¹ð
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Æ„ºª
+N	java:S106"9Replace this use of System.out or System.err by a logger.(©ðˆù
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›ü›üøÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(á¹È‡
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ÊÈÖé
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(ûåóˆ

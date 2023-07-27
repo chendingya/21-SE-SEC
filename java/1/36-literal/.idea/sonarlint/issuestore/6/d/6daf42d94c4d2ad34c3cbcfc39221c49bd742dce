@@ -1,0 +1,17 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+R
+java:S1854"7Remove this useless assignment to local variable "num".(ò¾ò…ûÿÿÿÿ
+C
+java:S1481
+"(Remove this unused "num" local variable.(†¬›Äûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰¦î»
+N	java:S106"9Replace this use of System.out or System.err by a logger.(öÂÎä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üÿÄëıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÎË¸¿ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®®»äüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÂ Õûÿÿÿÿ
+;
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©

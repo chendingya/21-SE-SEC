@@ -1,0 +1,18 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(Çµí‘
+M	java:S106#"9Replace this use of System.out or System.err by a logger.(ÚÔ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ç”Ïßüÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+M	java:S1060"9Replace this use of System.out or System.err by a logger.(ÚÔ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ç”Ïßüÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+M	java:S106<"9Replace this use of System.out or System.err by a logger.(ÚÔ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ç”Ïßüÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+M	java:S106H"9Replace this use of System.out or System.err by a logger.(ÚÔ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(ç”Ïßüÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

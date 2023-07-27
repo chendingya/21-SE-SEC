@@ -1,0 +1,22 @@
+
+2
+java:S1643i"Use a StringBuilder instead.(¶ûðÞ
+7
+java:S1643k"Use a StringBuilder instead.(‡Ñ®ùüÿÿÿÿ
+7
+java:S1643n"Use a StringBuilder instead.(éÞƒÁþÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+Z
+java:S2259u"?A "NullPointerException" could be thrown; "o" is nullable here.(±û¶µüÿÿÿÿ
+k
+java:S1206t"PThis class overrides "equals()" and should therefore also override "hashCode()".(Ý¢êÍýÿÿÿÿ
+S
+java:S1854:"8Remove this useless assignment to local variable "brow".(æ¨°çÿÿÿÿÿ
+D
+java:S1481:")Remove this unused "brow" local variable.(æ¨°çÿÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(¾™§ñÿÿÿÿÿ
+\
+java:S1126u"AReplace this if-then-else statement by a single return statement.(±û¶µüÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

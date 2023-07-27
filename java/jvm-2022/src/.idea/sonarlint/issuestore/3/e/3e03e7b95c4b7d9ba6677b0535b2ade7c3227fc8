@@ -1,0 +1,17 @@
+
+l
+java:S1104("VMake fieldCount a static final constant or non-public and provide accessors if needed.(æøºî
+m
+java:S1104)"WMake methodCount a static final constant or non-public and provide accessors if needed.(Äó‰
+v
+java:S1104*"[Make interfacesCount a static final constant or non-public and provide accessors if needed.(å æöÿÿÿÿÿ
+P	java:S125\"<This block of commented-out lines of code should be removed.(¿Â
+M
+java:S1135["2Complete the task associated to this TODO comment.(ğı®šşÿÿÿÿ
+c	java:S100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ãû¬
+c	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÆÃÅ
+h	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£’üÿÿÿÿ
+c	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëòøÒ
+h	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£úœúÿÿÿÿ
+c	java:S100{"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ƒ¶
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(µ¸öÑúÿÿÿÿ
